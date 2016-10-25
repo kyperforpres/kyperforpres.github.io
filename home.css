@@ -1,0 +1,206 @@
+ul {
+  position: relative;
+  height: 60px;
+}
+
+li {
+  line-height: 60px;
+  padding-top: 30px;
+  display: inline;
+  padding: 35px;
+}
+
+.shad {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a {
+  color: #D8D8D8;
+  text-decoration: none;
+  font-family: 'Poiret One', cursive;
+}
+
+a:hover {
+  color: #FBFBFB;
+}
+
+li:hover {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #181818;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#wrapper{
+    width: 1080px;
+    margin: 0 auto;
+    bottom: 50px;
+}
+
+#navBar {
+  position: relative;;
+  top: 30px;
+  background-color: #3C383B;
+}
+
+#home {
+  background-color: #AF55E7;
+}
+
+#home:hover {
+  line-height: 60px;
+  padding-top: 30px;
+  display: inline;
+  padding: 35px;;
+}
+
+#bannercon {
+  position: relative;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+#banner {
+  width: 1080px;
+  margin-top: 0;
+}
+
+#mobil {
+  position: relative;
+  height: 400px;
+  width: 535px;
+  padding-top: : 520px;
+  float: left;
+}
+
+#tweet {
+  position: relative;
+  float: right;
+}
+
+h1 {
+  padding: 15px;
+  font-family: 'Poiret One', cursive;
+}
+
+p {
+  font-family: 'Poiret One', cursive;
+  padding: 35px;
+}
+
+#footer {
+  position: relative;
+  top: 40px;
+  text-align: center
+}
+
+#stand {
+  position: relative;
+  padding-right: 10px;
+  top: -70px;
+  height: 400px;
+  width: 400px;
+}
+
+#story {
+  font-size: 50px;
+  position: relative;
+  left: 430px;
+  top: 50px;
+  font-family: 'Poiret One', cursive;
+}
+
+#stat {
+  position: relative;
+  top: 4px;
+  font-size: 19px;
+}
+
+#news {
+  position: relative;
+  top: 40px;
+}
+
+#links {
+  font-size: 30px;
+  padding-left: 20px;
+  position: relative;
+  top: 56px;
+}
+
+.new {
+  color: black;
+}
+
+.new:hover {
+  color: #AF55E7;
+}
+
+#join {
+  position: relative;
+  float: right;
+  top: -100px;
+}
+
+#emails {
+  position: relative;
+  float: right;
+  font-size: 30px;
+  right: -300px;
+  top: -10px;
+}
+
+#statement {
+  position: relative;
+  top: 150px;
+}
+
+#state {
+  font-size: 20px;
+  position: relative;
+  top: 130px;
+}
+
+#ig {
+  position: relative;
+  top: 50px;
+}
+
+#insta {
+  font-size: 30px;
+  position: relative;
+  left: 130px;
+  top: -80px;
+}
+
+#twat {
+  font-size: 30px;
+  position: relative;
+  left: 130px;
+  top: -130px;
+}
+
+#igpic {
+  position: relative;
+  float: right;
+  top: -500px;
+}
+
+#update {
+  position: relative;
+  top: 50px;
+}
+
+#cup {
+  position: relative;
+  float: right;
+}
+
+#coming {
+  position: relative;
+  top: 30px;
+}
