@@ -143,6 +143,7 @@ p {
 #join {
   position: relative;
   float: right;
+  right: -30px;
   top: -100px;
 }
 
