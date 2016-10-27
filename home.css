@@ -143,15 +143,16 @@ p {
 #join {
   position: relative;
   float: right;
-  top: -100px;
+  right: 80px;
+  top: -170px;
 }
 
 #emails {
   position: relative;
   float: right;
   font-size: 30px;
-  right: -300px;
-  top: -10px;
+  right: -320px;
+  top: -90px;
 }
 
 #statement {
@@ -187,7 +188,7 @@ p {
 #igpic {
   position: relative;
   float: right;
-  top: -500px;
+  top: -700px;
 }
 
 #update {
@@ -198,9 +199,15 @@ p {
 #cup {
   position: relative;
   float: right;
+  top: -160px;
 }
 
 #coming {
   position: relative;
   top: 30px;
+}
+
+#thank {
+  position: relative;
+  top: 40px;
 }
