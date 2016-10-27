@@ -151,8 +151,13 @@ p {
   position: relative;
   float: right;
   font-size: 30px;
+<<<<<<< HEAD
   right: -320px;
   top: -90px;
+=======
+  right: -300px;
+  top: -50px;
+>>>>>>> origin/master
 }
 
 #statement {
